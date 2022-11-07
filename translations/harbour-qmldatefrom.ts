@@ -11,10 +11,6 @@
 <context>
     <name>FirstPage</name>
     <message>
-        <source>2022-10-11</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>numerone</source>
         <translation type="unfinished"></translation>
     </message>
@@ -52,6 +48,18 @@
     </message>
     <message>
         <source>Insert the date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Is your anniversary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Is your mesiversary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2022-10-07</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
