@@ -42,7 +42,7 @@ Page {
                 id: data
                 x: nome.bottom
                 label: qsTr("Insert the date")
-                text: qsTr("2022-10-11")
+                text: qsTr("2022-10-07")
             }
             Button {
                 id: calculate
@@ -53,6 +53,11 @@ Page {
                     var before=new Date(data.text)
                     var offset=now.getTime()-before.getTime()
                     offset=Math.floor(offset / (1000 * 3600 * 24))
+                    if (before.getDate()===now.getDate())
+                        if (before.getMonth()===now.getMonth())
+                            anniversary.text=qsTr("Is your anniversary");
+                        else
+                            anniversary.text=qsTr("Is your mesiversary");
                     result.text=qsTr("You met ")+nome.text+qsTr(" about ")+offset+qsTr(" days ago.")
                 }
 
@@ -60,6 +65,11 @@ Page {
             Label {
                 x: calculate.bottom
                 id: result
+                text: qsTr("")
+            }
+            Label {
+                x: result.bottom
+                id: anniversary
                 text: qsTr("")
             }
         }
