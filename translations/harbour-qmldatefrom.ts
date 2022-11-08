@@ -5,33 +5,45 @@
     <name>CoverPage</name>
     <message>
         <source>My Cover</source>
-        <translation>Copertina</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FirstPage</name>
     <message>
-        <source>numerone</source>
-        <translation type="unfinished"></translation>
+        <source></source>
+        <translation></translation>
     </message>
     <message>
         <source>QMLDateFrom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source></source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>About</source>
+        <source>numerone</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert the name</source>
+        <source>Insert the date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2022-10-07</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calculate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Is your anniversary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Is your mesiversary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -47,19 +59,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Insert the date</source>
+        <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Is your anniversary</source>
+        <source>Insert the name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Is your mesiversary</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>2022-10-07</source>
+        <source>Choose a date</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de">
+<TS version="2.1" language="it_IT">
 <context>
     <name>CoverPage</name>
     <message>
         <source>My Cover</source>
-        <translation>Mein Cover</translation>
+        <translation>Copertina</translation>
     </message>
 </context>
 <context>
@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>Insert the date</source>
-        <translation>Geben Sie das Datum ein</translation>
+        <translation>Inserisci la data</translation>
     </message>
     <message>
         <source>2022-10-07</source>
@@ -36,39 +36,39 @@
     </message>
     <message>
         <source>Calculate</source>
-        <translation>Berechnung</translation>
+        <translation>Calcola</translation>
     </message>
     <message>
         <source>Is your anniversary</source>
-        <translation>Ist Ihr Jubiläum</translation>
+        <translation>É il tuo anniversario</translation>
     </message>
     <message>
         <source>Is your mesiversary</source>
-        <translation>Ist Ihr Mesiversary</translation>
+        <translation>É il tuo meseversario</translation>
     </message>
     <message>
         <source>You met </source>
-        <translation>Sie haben </translation>
+        <translation>Hai incontrato </translation>
     </message>
     <message>
         <source> about </source>
-        <translation> vor ungefähr </translation>
+        <translation> circa </translation>
     </message>
     <message>
         <source> days ago.</source>
-        <translation> Tagen getroffen.</translation>
+        <translation> giorni fa.</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Um</translation>
+        <translation>Informazioni</translation>
     </message>
     <message>
         <source>Insert the name</source>
-        <translation>Geben Sie den Namen ein</translation>
+        <translation>Inserisci il nome</translation>
     </message>
     <message>
         <source>Choose a date</source>
-        <translation>Geben Sie das Datum ein</translation>
+        <translation>Seleziona una data</translation>
     </message>
 </context>
 <context>
@@ -88,11 +88,11 @@ versione successiva</source>
     </message>
     <message>
         <source>Go to the program</source>
-        <translation>Gehen Sie zum Programm</translation>
+        <translation>Vai al programma</translation>
     </message>
     <message>
         <source>Informations</source>
-        <translation>Informationen</translation>
+        <translation>Informazioni</translation>
     </message>
 </context>
 </TS>

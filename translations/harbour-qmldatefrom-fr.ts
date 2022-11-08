@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de">
+<TS version="2.1" language="fr">
 <context>
     <name>CoverPage</name>
     <message>
         <source>My Cover</source>
-        <translation>Mein Cover</translation>
+        <translation>Couverture</translation>
     </message>
 </context>
 <context>
@@ -16,7 +16,7 @@
     </message>
     <message>
         <source>QMLDateFrom</source>
-        <translation>QMLDateFrom</translation>
+        <translation>QmlDateFrom</translation>
     </message>
     <message>
         <source>numerone</source>
@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>Insert the date</source>
-        <translation>Geben Sie das Datum ein</translation>
+        <translation>Insérez la date</translation>
     </message>
     <message>
         <source>2022-10-07</source>
@@ -36,39 +36,39 @@
     </message>
     <message>
         <source>Calculate</source>
-        <translation>Berechnung</translation>
+        <translation>Calculate</translation>
     </message>
     <message>
         <source>Is your anniversary</source>
-        <translation>Ist Ihr Jubiläum</translation>
+        <translation>Est-ce ton anniversaire</translation>
     </message>
     <message>
         <source>Is your mesiversary</source>
-        <translation>Ist Ihr Mesiversary</translation>
+        <translation>Est-ce que ton mesiversaire</translation>
     </message>
     <message>
         <source>You met </source>
-        <translation>Sie haben </translation>
+        <translation>Vous avez rencontré </translation>
     </message>
     <message>
         <source> about </source>
-        <translation> vor ungefähr </translation>
+        <translation> il y a environ </translation>
     </message>
     <message>
         <source> days ago.</source>
-        <translation> Tagen getroffen.</translation>
+        <translation> jours.</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>Um</translation>
+        <translation>À propos de</translation>
     </message>
     <message>
         <source>Insert the name</source>
-        <translation>Geben Sie den Namen ein</translation>
+        <translation>Insérez le nom</translation>
     </message>
     <message>
         <source>Choose a date</source>
-        <translation>Geben Sie das Datum ein</translation>
+        <translation>Insérez la date</translation>
     </message>
 </context>
 <context>
@@ -88,11 +88,11 @@ versione successiva</source>
     </message>
     <message>
         <source>Go to the program</source>
-        <translation>Gehen Sie zum Programm</translation>
+        <translation>Aller au programme</translation>
     </message>
     <message>
         <source>Informations</source>
-        <translation>Informationen</translation>
+        <translation>Informations</translation>
     </message>
 </context>
 </TS>
