@@ -46,7 +46,7 @@ Page {
             }
             Button {
                 id: button
-                text: qsTr"(Choose a date")
+                text: qsTr("Choose a date")
                 onClicked: {
                     var dialog = pageStack.push(pickerComponent, {
                     date: new Date('2022/10/')
