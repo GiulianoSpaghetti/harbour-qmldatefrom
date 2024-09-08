@@ -5,6 +5,3 @@ Serve per rompere il ghiaccio durante una relazione interpersonale, ossia per ap
 # Donazione
 
 http://numerone.altervista.org/donazioni.php
-
-# Bibliografia
-https://sailfishos.org/develop/docs/silica/qml-sailfishsilica-sailfish-silica-datepickerdialog.html/
